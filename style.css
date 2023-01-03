@@ -1,0 +1,41 @@
+*{
+  color: whitesmoke !important;
+}
+
+img{
+  width: 90%;
+  margin: 5px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 1px solid black;
+}
+
+div{
+  text-align: center;
+  padding: 5px;
+  display: inline-block;
+}
+
+.card{
+  border: 2px solid rgb(0, 0, 0) !important;
+  background-color: gray !important;
+}
+
+p{
+  display: block;
+
+}
+
+.btn{
+  width: 100%;
+  transition: 1.5s;
+}
+
+
+h5{
+  background-color: gray;
+  color: aliceblue !important;
+  padding: 5px;
+}
+
